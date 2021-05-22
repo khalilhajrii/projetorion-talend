@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_B5RDIK3yEeu_wp__JB0yIA" name="connectto_order" id="_AKZtkK3yEeu_wp__JB0yIA" label="connectto_order" dataPackage="_B9BhwK3yEeu_wp__JB0yIA" DatabaseType="MySQL" DriverClass="org.gjt.mm.mysql.Driver" URL="jdbc:mysql://localhost:3306/oriondb?noDatetimeStringSync=true" dbVersionString="MYSQL_5" Port="3306" Username="root" Password="" ServerName="localhost" SID="oriondb" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true" StandardSQL="true" SQLMode="false">
+    <taggedValue xmi:id="_B5RDIa3yEeu_wp__JB0yIA" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_B5r54K3yEeu_wp__JB0yIA" tag="package filter" value=""/>
+    <taggedValue xmi:id="_B525AK3yEeu_wp__JB0yIA" tag="Status" value=""/>
+    <taggedValue xmi:id="_B525Aa3yEeu_wp__JB0yIA" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_B525Aq3yEeu_wp__JB0yIA" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_B525A63yEeu_wp__JB0yIA" tag="Description" value=""/>
+    <taggedValue xmi:id="_B525BK3yEeu_wp__JB0yIA" tag="Author" value=""/>
+    <taggedValue xmi:id="_B525Ba3yEeu_wp__JB0yIA" tag="otherParameter"/>
+    <taggedValue xmi:id="_B80tcK3yEeu_wp__JB0yIA" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_B80tca3yEeu_wp__JB0yIA" tag="DB ProductVersion" value="5.7.31"/>
+    <taggedValue xmi:id="_B80tcq3yEeu_wp__JB0yIA" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_B5RDIq3yEeu_wp__JB0yIA" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_B9BhwK3yEeu_wp__JB0yIA" name="oriondb" dataManager="_B5RDIK3yEeu_wp__JB0yIA"/>
+</xmi:XMI>

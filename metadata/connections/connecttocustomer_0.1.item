@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_lripILomEeu-oP_-7uiD4A" name="connecttocustomer" id="_juu-MLomEeu-oP_-7uiD4A" label="connecttocustomer" dataPackage="_lsnAILomEeu-oP_-7uiD4A" DatabaseType="MySQL" DriverClass="org.gjt.mm.mysql.Driver" URL="jdbc:mysql://localhost:3306/oriondb?noDatetimeStringSync=true" dbVersionString="MYSQL_5" Port="3306" Username="root" Password="" ServerName="localhost" SID="oriondb" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true" StandardSQL="true" SQLMode="false">
+    <taggedValue xmi:id="_lripIbomEeu-oP_-7uiD4A" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_lsLiULomEeu-oP_-7uiD4A" tag="package filter" value=""/>
+    <taggedValue xmi:id="_lsTeILomEeu-oP_-7uiD4A" tag="Status" value=""/>
+    <taggedValue xmi:id="_lsTeIbomEeu-oP_-7uiD4A" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_lsTeIromEeu-oP_-7uiD4A" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_lsTeI7omEeu-oP_-7uiD4A" tag="Description" value=""/>
+    <taggedValue xmi:id="_lsTeJLomEeu-oP_-7uiD4A" tag="Author" value=""/>
+    <taggedValue xmi:id="_lsTeJbomEeu-oP_-7uiD4A" tag="otherParameter"/>
+    <taggedValue xmi:id="_lscBALomEeu-oP_-7uiD4A" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_lscBAbomEeu-oP_-7uiD4A" tag="DB ProductVersion" value="5.7.31"/>
+    <taggedValue xmi:id="_lscBAromEeu-oP_-7uiD4A" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_lripIromEeu-oP_-7uiD4A" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_lsnAILomEeu-oP_-7uiD4A" name="oriondb" dataManager="_lripILomEeu-oP_-7uiD4A"/>
+</xmi:XMI>

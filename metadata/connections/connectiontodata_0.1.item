@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_XvmKEKwtEeuveKJ-oUJ0Zw" name="connectiontodata" id="_SegD4KwtEeuveKJ-oUJ0Zw" label="connectiontodata" dataPackage="_XwuLcKwtEeuveKJ-oUJ0Zw" DatabaseType="MySQL" DriverClass="org.gjt.mm.mysql.Driver" URL="jdbc:mysql://localhost:3306/oriondb?noDatetimeStringSync=true" dbVersionString="MYSQL_5" Port="3306" Username="root" Password="" ServerName="localhost" SID="oriondb" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true" StandardSQL="true" SQLMode="false">
+    <taggedValue xmi:id="_XvmKEawtEeuveKJ-oUJ0Zw" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_XwFSQKwtEeuveKJ-oUJ0Zw" tag="package filter" value=""/>
+    <taggedValue xmi:id="_XwOcMKwtEeuveKJ-oUJ0Zw" tag="Status" value=""/>
+    <taggedValue xmi:id="_XwOcMawtEeuveKJ-oUJ0Zw" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_XwOcMqwtEeuveKJ-oUJ0Zw" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_XwOcM6wtEeuveKJ-oUJ0Zw" tag="Description" value=""/>
+    <taggedValue xmi:id="_XwOcNKwtEeuveKJ-oUJ0Zw" tag="Author" value=""/>
+    <taggedValue xmi:id="_XwOcNawtEeuveKJ-oUJ0Zw" tag="otherParameter"/>
+    <taggedValue xmi:id="_Xwb3kKwtEeuveKJ-oUJ0Zw" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_Xwb3kawtEeuveKJ-oUJ0Zw" tag="DB ProductVersion" value="5.7.31"/>
+    <taggedValue xmi:id="_Xwb3kqwtEeuveKJ-oUJ0Zw" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_XvmKEqwtEeuveKJ-oUJ0Zw" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_XwuLcKwtEeuveKJ-oUJ0Zw" name="oriondb" dataManager="_XvmKEKwtEeuveKJ-oUJ0Zw"/>
+</xmi:XMI>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_SSKkMK3yEeu_wp__JB0yIA" name="order_fact_connect" id="_QMEaYK3yEeu_wp__JB0yIA" label="order_fact_connect" dataPackage="_STCG4K3yEeu_wp__JB0yIA" DatabaseType="MySQL" DriverClass="org.gjt.mm.mysql.Driver" URL="jdbc:mysql://localhost:3306/oriondb?noDatetimeStringSync=true" dbVersionString="MYSQL_5" Port="3306" Username="root" Password="" ServerName="localhost" SID="oriondb" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true" StandardSQL="true" SQLMode="false">
+    <taggedValue xmi:id="_SSKkMa3yEeu_wp__JB0yIA" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_SSpFUK3yEeu_wp__JB0yIA" tag="package filter" value=""/>
+    <taggedValue xmi:id="_SSpFUa3yEeu_wp__JB0yIA" tag="Status" value=""/>
+    <taggedValue xmi:id="_SSpFUq3yEeu_wp__JB0yIA" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_SSpFU63yEeu_wp__JB0yIA" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_SSpFVK3yEeu_wp__JB0yIA" tag="Description" value=""/>
+    <taggedValue xmi:id="_SSpFVa3yEeu_wp__JB0yIA" tag="Author" value=""/>
+    <taggedValue xmi:id="_SSpFVq3yEeu_wp__JB0yIA" tag="otherParameter"/>
+    <taggedValue xmi:id="_SS1SkK3yEeu_wp__JB0yIA" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_SS1Ska3yEeu_wp__JB0yIA" tag="DB ProductVersion" value="5.7.31"/>
+    <taggedValue xmi:id="_SS1Skq3yEeu_wp__JB0yIA" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_SSKkMq3yEeu_wp__JB0yIA" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_STCG4K3yEeu_wp__JB0yIA" name="oriondb" dataManager="_SSKkMK3yEeu_wp__JB0yIA"/>
+</xmi:XMI>
